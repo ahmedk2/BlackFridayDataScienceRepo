@@ -16,7 +16,7 @@ I believe that by analyzing these features it will give the anonymous store onwn
 analytics and the characteristics that drive the purchasing power of specific products.
 
 
-First you need to download the “Project Files” folder and save it anywhere on your computer. However, 
+First you need to download the files and save it anywhere on your computer. However, 
 it is recommended that you save this folder on your desktop for a simple file path. You do not need to download 
 python separately since installing Anaconda means you are getting a version of Python installed.
 
@@ -34,9 +34,8 @@ of Python you want either 3.7 or 2.7 version. Download the version of python you
 will not alter results of our models and algorithms.
 
 After you install Anaconda Navigator you should open the application and then launch the Spyder application 
-within the Navigator’s home screen. After you open Spyder, open the files “BlackFridayAnalysis.py” from 
-the “ITEC 4230 Project Files” then run your program by copy and pasting code into the IPython console. 
-We recommend copying and pasting code into the IPython console in portions because the load time may 
+within the Navigator’s home screen. After you open Spyder, open the file “BlackFridayDatasetAnalysis.py” then run your program by copy and pasting code into the IPython console. 
+I recommend copying and pasting code into the IPython console in portions because the load time may 
 take long if you attempt to run all the code at once. 
 
 The portions you should copy and paste are:
