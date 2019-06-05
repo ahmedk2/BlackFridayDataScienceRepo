@@ -16,7 +16,7 @@ I believe that by analyzing these features it will give the anonymous store onwn
 analytics and the characteristics that drive the purchasing power of specific products.
 
 
-First you need to download the “ITEC 4230 Project Files” folder and save it anywhere on your computer. However, 
+First you need to download the “Project Files” folder and save it anywhere on your computer. However, 
 it is recommended that you save this folder on your desktop for a simple file path. You do not need to download 
 python separately since installing Anaconda means you are getting a version of Python installed.
 
